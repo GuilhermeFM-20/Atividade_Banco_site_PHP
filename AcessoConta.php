@@ -59,7 +59,7 @@
 			 }	
 				 unset($_SESSION['avi']);
 		 	?>
-			<label>Numero da Conta</label>
+			<label>Numero da Conta do usuário</label>
 			<input type="text" name="numc" class="text" min="8" max="8" required="" value="  Ex:1234553"><br>
 			<label>Nome do usuario</label>
 			<input type="text" name="nome" required="" class="text"><br>
